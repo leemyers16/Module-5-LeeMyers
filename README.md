@@ -91,9 +91,13 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application
+* https://leemyers16.github.io/Module-5-LeeMyers/
 
-* The URL of the GitHub repository, with a unique name and a README describing the project
+* https://github.com/leemyers16/Module-5-LeeMyers
+
+/Users/leemyers/Desktop/bootcamp-projects/Module-5-LeeMyers/Assets/05-third-party-apis-homework-demo.gif
+
+
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
